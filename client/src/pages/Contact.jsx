@@ -47,10 +47,10 @@ const Contact = () => {
                   <div className="flex-1">
                     <p className="text-sm text-gray-500 mb-1">Email</p>
                     <a 
-                      href="mailto:adityagadbail003@gmail.com"
+                      href="mailto:mohammadfarhannn5@gmail.com"
                       className="text-gray-900 font-medium hover:text-purple-600 transition-colors break-all"
                     >
-                      adityagadbail003@gmail.com
+                      mohammadfarhannn5@gmail.com
                     </a>
                   </div>
                 </div>
@@ -93,12 +93,12 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="font-semibold text-gray-900 group-hover:text-purple-600 transition-colors">GitHub</p>
-                    <p className="text-sm text-gray-600">@AdityaGadbail</p>
+                    <p className="text-sm text-gray-600">@MD-FARHAN</p>
                   </div>
                 </a>
 
                 <a
-                  href="https://www.linkedin.com/in/adityagadbail"
+                  href="https://www.linkedin.com/in/mohammad-farhan-4b5543323"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl hover:from-blue-100 hover:to-blue-200 transition-all duration-300 border border-blue-200 hover:border-blue-300 group"

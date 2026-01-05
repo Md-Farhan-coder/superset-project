@@ -36,8 +36,8 @@ export const register = async (req, res) => {
       const sendEmail = {
          from: process.env.SENDER_EMAIL,
          to: email,
-         subject: "Welcome to Aditya's Project",
-         html: `<h2>Welcome to Aditya's Project. Your account has been created with email ${email}</h2>`
+         subject: "Welcome to Farhan's Project",
+         html: `<h2>Welcome to Farhan's Project. Your account has been created with email ${email}</h2>`
       }
       await transporter.sendMail(sendEmail)
 
